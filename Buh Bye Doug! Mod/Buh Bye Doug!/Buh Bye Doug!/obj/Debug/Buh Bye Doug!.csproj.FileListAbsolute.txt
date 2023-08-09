@@ -1,0 +1,79 @@
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\Buh Bye Doug!.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\Buh Bye Doug!.pdb
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\Unity.Animation.Rigging.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\Unity.Burst.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\Unity.Burst.Unsafe.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\Unity.Formats.Fbx.Runtime.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\Unity.InputSystem.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\Unity.Mathematics.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\Unity.Recorder.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\Unity.Timeline.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\Unity.XR.Interaction.Toolkit.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.AndroidJNIModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.DSPGraphModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.SubsystemsModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.TextCoreModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.UI.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.XR.LegacyInputHelpers.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\obj\Debug\Buh Bye Doug!.csproj.AssemblyReference.cache
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\obj\Debug\Buh Bye Doug!.csproj.CoreCompileInputs.cache
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\obj\Debug\Buh Bye Doug!.csproj.CopyComplete
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\obj\Debug\Buh Bye Doug!.dll
+C:\Users\kyleh\Downloads\Buh Bye Doug! Mod\Buh Bye Doug!\Buh Bye Doug!\obj\Debug\Buh Bye Doug!.pdb
